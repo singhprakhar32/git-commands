@@ -5,3 +5,5 @@ git add .- To track the New files/Adjusting changes/ any chaanges in local repos
 git commit -confirmed any kind of modification
 
 git push - upload commited changes in github/origin
+
+git pull -
