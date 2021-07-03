@@ -6,4 +6,4 @@ git commit -confirmed any kind of modification
 
 git push - upload commited changes in github/origin
 
-git pull -
+git pull -any changes we have done in repo will be reflected in local
