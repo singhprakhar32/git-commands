@@ -1,0 +1,7 @@
+git clone - to copy Projects from GitHub
+git status - what is the status of local repository
+git add .- To track the New files/Adjusting changes/ any chaanges in local repository yhat will be tracked
+
+git commit -confirmed any kind of modification
+
+git push - upload commited changes in github/origin
